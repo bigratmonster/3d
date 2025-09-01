@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+footer {
+  background: none;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+  position: absolute;
+}

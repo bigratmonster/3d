@@ -1,2 +1,2 @@
 # 3d
-how
+x and y, now with z!
